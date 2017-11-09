@@ -4,6 +4,9 @@ markdown-viewer
 Userscript to preview and print local markdown files using different themes.
 Just drop your markdown-file in your browser and enjoy the nicely rendered text.
 
+Markdown css files used to style the markdown are taken from [jasonm23](https://github.com/jasonm23/markdown-css-themes).
+They are placed in the `docs` directory and served via github pages.
+
 Only tested in Google Chrome with Tampermonkey atm!!
 
 ## Credits

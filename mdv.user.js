@@ -172,22 +172,22 @@ function showSpinner(){
 function getStyles(){
     var s = {};
     s.none 			= "";
-    s.swiss 		= "http://znegva.github.io/markdown.css/swiss.css";
-    s.foghorn 		= "http://znegva.github.io/markdown.css/foghorn.css";
-    s.screen		= "http://znegva.github.io/markdown.css/screen.css";
-    s.avenir_white	= "http://znegva.github.io/markdown.css/avenir-white.css";
-    s.markdown_alt 	= "http://znegva.github.io/markdown.css/markdown-alt.css";
-    s.markdown 		= "http://znegva.github.io/markdown.css/markdown.css";
-    s.markdown1		= "http://znegva.github.io/markdown.css/markdown1.css";
-    s.markdown2		= "http://znegva.github.io/markdown.css/markdown2.css";
-    s.markdown3		= "http://znegva.github.io/markdown.css/markdown3.css";
-    s.markdown4		= "http://znegva.github.io/markdown.css/markdown4.css";
-    s.markdown5		= "http://znegva.github.io/markdown.css/markdown5.css";
-    s.markdown6		= "http://znegva.github.io/markdown.css/markdown6.css";
-    s.markdown7		= "http://znegva.github.io/markdown.css/markdown7.css";
-    s.markdown8		= "http://znegva.github.io/markdown.css/markdown8.css";
-    s.markdown9		= "http://znegva.github.io/markdown.css/markdown9.css";
-    s.markdown10 	= "http://znegva.github.io/markdown.css/markdown10.css";
+    s.swiss 		= "http://znegva.github.io/markdown-viewer/swiss.css";
+    s.foghorn 		= "http://znegva.github.io/markdown-viewer/foghorn.css";
+    s.screen		= "http://znegva.github.io/markdown-viewer/screen.css";
+    s.avenir_white	= "http://znegva.github.io/markdown-viewer/avenir-white.css";
+    s.markdown_alt 	= "http://znegva.github.io/markdown-viewer/markdown-alt.css";
+    s.markdown 		= "http://znegva.github.io/markdown-viewer/markdown.css";
+    s.markdown1		= "http://znegva.github.io/markdown-viewer/markdown1.css";
+    s.markdown2		= "http://znegva.github.io/markdown-viewer/markdown2.css";
+    s.markdown3		= "http://znegva.github.io/markdown-viewer/markdown3.css";
+    s.markdown4		= "http://znegva.github.io/markdown-viewer/markdown4.css";
+    s.markdown5		= "http://znegva.github.io/markdown-viewer/markdown5.css";
+    s.markdown6		= "http://znegva.github.io/markdown-viewer/markdown6.css";
+    s.markdown7		= "http://znegva.github.io/markdown-viewer/markdown7.css";
+    s.markdown8		= "http://znegva.github.io/markdown-viewer/markdown8.css";
+    s.markdown9		= "http://znegva.github.io/markdown-viewer/markdown9.css";
+    s.markdown10 	= "http://znegva.github.io/markdown-viewer/markdown10.css";
     
     return s;
 }
