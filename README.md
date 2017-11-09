@@ -9,6 +9,14 @@ They are placed in the `docs` directory and served via github pages.
 
 Only tested in Google Chrome with Tampermonkey atm!!
 
+__Please note:__
+To make the userscript work in Chrome/Tampermonkey you have to perform the following:
+
+ * enable "Allow access to file URLs" for Tampermonkey in `chrome://extensions`
+ * start Chrome with disabled _same origin policy_ (you should not do this), see [here](https://stackoverflow.com/a/6083677)
+
+Taking these steps into account the userscript is rather unusable atm :(.
+
 ## Credits
  * [Markdown](https://daringfireball.net/projects/markdown/) was conceived by John Gruber.  
  * [showdown.js](http://markhuot.github.io/phocco/resources/showdown.js.html) by John Fraser is the JavaScript port of Markdown which converts your md-file to HMTL.  
